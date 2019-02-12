@@ -1,0 +1,4 @@
+[27-Sep-2018 06:09:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/aurovil1/public_html/thesolarvillage/wp-content/themes/solarvillage/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/aurovil1/public_html/thesolarvillage/wp-content/themes/solarvillage/index.php on line 1

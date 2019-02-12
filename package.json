@@ -1,0 +1,22 @@
+{
+  "name": "solarvillage",
+  "version": "1.0.7",
+  "description": "The solar village is a unique wordpress theme custom built for solar village search engine",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitijbhatt/solarvillage.git"
+  },
+  "keywords": [
+    "solarvillage"
+  ],
+  "author": "Kshitij Bhatt - Auroville consulting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshitijbhatt/solarvillage/issues"
+  },
+  "homepage": "https://github.com/kshitijbhatt/solarvillage#readme"
+}

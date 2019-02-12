@@ -1,0 +1,67 @@
+@media (min-width: 1025px) {
+	.slick-dots {display:none !important;}
+}
+@media (max-width: 992px) {
+	.home-content h1 {
+	    font-size: 2rem;
+	}
+	.foot-path img {
+		width: 40px !important;
+	}
+	.home-brand img {
+		width: 50vw !important;
+	}
+	.home-search {
+		width: 100% !important;
+		margin: 0 !important;
+	}
+	body.page-template-default .custom-page {
+		padding-top: 120px !important;
+	}
+	.footer {
+		position: relative !important;
+	}
+	.header-nav .navbar-expand-lg {
+		display: none !important;
+	}
+	.svlg-buttons {display:none;}
+	.faq-list li{display:block !important;width:100% !important;text-align:center;}
+	
+}
+@media only screen and (max-width: 767px){
+	.header-search {
+		width: 80% !important;
+	}
+	.scrolling-wrapper-flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important;
+    }
+	.scrollable__content{
+		width:100%;
+	}
+}
+@media (max-width: 530px){
+	.header-search {
+		width: 60% !important;
+	}
+}
+@media (max-width: 600px){
+
+	.mobile-nav {
+		
+		right: 0;
+		top: 18px;
+	}
+	.lead-2 {font-size:1rem !important}
+
+	
+}
+@media only screen and (min-width:768px) and (max-width: 992px){.header-search{width:60%!important;}}
+@media only screen and (min-width:768px) and (max-width: 1200px){.mw-656{width:60%!important;left:calc(185px + 1rem)!important;}}
+@media only screen and (min-width: 1200px){
+	.mw-656{width:40%!important;left:calc(185px + 1rem)!important;}
+
+	}
