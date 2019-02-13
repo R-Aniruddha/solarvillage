@@ -1,0 +1,15 @@
+{
+    "paths" : {
+    "js": "./js",
+    "css": "./css",
+    "img": "./images",
+	  "imgsrc": "./src/img",
+    "sass": "./src/scss",
+    "node": "./node_modules/",
+    "bower": "./bower_components/",
+    "dev": "./src",
+    "dist": "./dist",
+    "distprod": "./dist-product",
+    "vendor": ""
+  }
+}
