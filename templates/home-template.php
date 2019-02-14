@@ -13,7 +13,7 @@ Template Name: home-page
             <p class="lead-2"><?php echo get_bloginfo('description'); ?></p>
 	    </div>
 	    <div class="home-search">
-		  
+		  <h2> Hello</h2>
 		       <form action="<?php echo esc_attr( home_url( '/search' ) );?>" method="get">
 					<div class="input-group input-group-lg">
 						<input placeholder="Search to generate solar power..." type="search" class="form-control" name="q">
