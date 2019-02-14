@@ -1,0 +1,36 @@
+//Search box code
+
+<script>
+  (function() {
+    var cx = 'partner-pub-8227463832165865:1097630881';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+
+
+// Search result code
+<script>
+  (function() {
+    var cx = 'partner-pub-8227463832165865:1097630881';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchresults-only></gcse:searchresults-only>
+
+
+// Popular queries
+<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
+<div id="queries"></div>
+<script src="http://www.google.com/cse/api/partner-pub-8227463832165865/cse/1097630881/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+
