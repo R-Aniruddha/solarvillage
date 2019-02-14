@@ -1,6 +1,6 @@
 <?php
 /* 
-Template Name: bing-search
+Template Name: google-search
 */
 
 if(!get_query_var('q')){
